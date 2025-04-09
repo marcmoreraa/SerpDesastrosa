@@ -1,0 +1,26 @@
+{
+  "name": "serpdesastrosa",
+  "version": "1.0.0",
+  "description": "Actualment tenim un codi que funciona. Per a aquesta pràctica cal partir d'aquest repositori i millorar-ne la qualitat.  Cal refactoritzar seguint les [bones pràctiques](https://code.tutsplus.com/tutorials/24-javascript-best-practices-for-beginners--net-5399) de Javascript que ens marca la comunitat.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcmoreraa/SerpDesastrosa.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/marcmoreraa/SerpDesastrosa/issues"
+  },
+  "homepage": "https://github.com/marcmoreraa/SerpDesastrosa#readme",
+  "devDependencies": {
+    "@eslint/js": "^9.24.0",
+    "eslint": "^9.24.0",
+    "globals": "^16.0.0"
+  }
+}
