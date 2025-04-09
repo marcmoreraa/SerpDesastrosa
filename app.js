@@ -26,6 +26,8 @@ const CONFIG = {
     posY: new Array(CONFIG.maxPunts),
   };
   
+
+  
   window.onload = initGame;
   // Inicialitza el joc
   function initGame() {
